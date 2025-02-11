@@ -1,0 +1,14 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Argo
+    probability: 1
+- names:
+  - name: town
+    probability: 1
+  - name: ' City'
+    probability: 1
+name: Argotown
+source: null
+subsets: []
