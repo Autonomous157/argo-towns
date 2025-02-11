@@ -1,0 +1,18 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Argo
+    probability: 1
+  - name: Presidents
+    probability: 1
+  - name: Pace
+    probability: 1
+  - name: Heritage
+    probability: 1
+- names:
+  - name: ' Hall'
+    probability: 1
+name: Halls
+source: null
+subsets: []

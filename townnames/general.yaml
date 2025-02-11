@@ -2,13 +2,10 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: Argo
+  - name: Emerald Roost
     probability: 1
-- names:
-  - name: town
+  - name: Argie D. Argonaut
     probability: 1
-  - name: ' City'
-    probability: 1
-name: Argotown
+name: General
 source: null
 subsets: []
